@@ -17,9 +17,9 @@ Windows users :
 ```
 
 Linux users :
-
-Script not available, it will be ported in future.
-
+```bash
+$ bash get-source.sh
+```
 
 When script finished, you can find sources files into "output/client-src.jar".
 
