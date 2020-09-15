@@ -1,0 +1,2 @@
+# Please download mapping file from Minecraft launcher
+# and replace this one to the downloaded file.
