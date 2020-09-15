@@ -22,7 +22,9 @@ Script not available, it will be ported in future.
 
 
 When script finished, you can find sources files into "output/client-src.jar".
-If you need to test your new sources, you can use the modified client located into "output" directory. This client have different classe name according to "deobfuscated" name.
+
+If you need to test your new sources, you can use the modified client located into "output" directory.
+This client have different classes name according to "deobfuscated" name.
 
 ## Disclaimer
 This script will no longer purpose to download Minecraft clients. You need to have your own files.
